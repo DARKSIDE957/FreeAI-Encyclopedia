@@ -14,7 +14,7 @@
 | **Fish Audio** | Voice / Voice Cloning | Free daily points (~50 generations daily); 1-minute voice clone for free | Fast cloud inference | Pro: $19.90/mo | **6/10** (Great voice cloning, free tier is generous) | **F5-TTS (Local)**, **Kokoro** |
 | **Groq Whisper API** | Transcription / STT | **20 RPM \| 2,000 audio seconds/min \| 7,200 audio seconds/hr 100% FREE** | ~200x realtime (Transcribes a 1-hour podcast in 15 seconds) | Paid tier available | **2/10** (The free tier is so absurdly generous that paying is unnecessary) | **faster-whisper (Local)** |
 | **OpenAI Whisper** | Transcription / STT | **100% Unlimited Forever** (Local `faster-whisper` or `whisper.cpp`) | Depends on local GPU/CPU | None ($0 open-source) | **N/A** (Completely free) | **Groq Whisper API** |
-| **Suno AI** | Music Generation | 50 free credits daily (= 10 songs / 5 generation prompts per day) | Cloud generation (~30s) | Pro: $10/mo (2,500 credits)<br>Premier: $30/mo | **7/10** (Good value for commercial rights & stems, but free tier is great for fun) | **Udio Free Tier** |
+| **Suno AI** | Music Generation | 50 free credits daily (= 10 songs / 5 generation prompts per day) | Cloud generation (~30s) | Pro: $10/mo (2,500 credits)<br>Premier: $30/mo | **7/10** (10 free daily songs is very generous and plenty for making music) | **Udio Free Tier** |
 | **Udio** | Music Generation | Daily & monthly free credit allotment (~10 credits/day) | Cloud generation (~40s) | Standard: $10/mo<br>Pro: $30/mo | **7/10** (Exceptional musicality and vocals; free tier lets you test ideas) | **Suno Free Tier** |
 | **F5-TTS** | Voice Cloning | **100% Unlimited Forever** (Zero-shot voice cloning with 5s audio reference) | Local GPU inference | None ($0 open-source) | **N/A** (Completely free) | **Fish Audio** |
 
@@ -74,11 +74,11 @@
 ### 1. Suno AI vs Udio (Free Tier Comparison)
 * **Suno AI** ([suno.com](https://suno.com)):
   * **Free Tier**: 50 credits refreshed **daily**. Each generation makes 2 song variations (consumes 10 credits). That gives you **10 free songs every day (300 songs per month)**.
-  * *Catch*: Free songs are for non-commercial use only and cannot be monetized on Spotify/Apple Music without a Pro plan.
+  * *Terms*: Free songs are for personal and non-commercial creative use (commercial distribution requires a Pro plan).
 * **Udio** ([udio.com](https://udio.com)):
   * **Free Tier**: Grants regular free daily credits to create musical fragments and 2-minute full tracks.
   * Stronger in jazz, soul, complex melodies, and intricate production; Suno is stronger in radio pop and punchy lyrics.
 
 ### Is Paying for Suno / Udio Worth It?
-* **Verdict**: **7 / 10** if you want to distribute music commercially to Spotify / YouTube Content ID.
-* If you are just having fun, creating memes, or writing background tunes for tabletop games, the **50 free daily credits on Suno are more than enough**.
+* **Verdict**: **7 / 10** (Only required if you need commercial distribution licenses).
+* For creating tracks, testing musical ideas, and everyday song creation, the **50 free daily credits on Suno (10 free songs daily) are very generous and plenty**.

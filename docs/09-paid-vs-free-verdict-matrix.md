@@ -17,7 +17,7 @@
 | **Perplexity Pro** | **$20/mo** ($240/yr) | **Perplexity Free (5 Pro/4h) + Genspark (Free)** | **6 / 10** | **Skip.** 5 free Pro searches every 4 hours plus Genspark covers 95% of research needs. |
 | **ElevenLabs Starter/Creator**| **$5-$22/mo** ($60-$264/yr) | **Kokoro-82M (Local/Free) + Fish Audio Free** | **5 / 10** | **Only buy for commercial sync.** Kokoro-82M is open-source, runs on CPU, and sounds studio-grade. |
 | **Runway Gen-3 Pro** | **$15-$35/mo** ($180-$420/yr) | **Kling AI (66 daily free credits) + Luma Free** | **5 / 10** | **Skip for hobbyists.** Kling AI gives 6 free HD videos every day without paying. |
-| **Suno / Udio Pro** | **$10/mo** ($120/yr) | **Suno Free Tier (50 credits/day = 10 songs)** | **7 / 10** | **Fair value for Spotify releases; skip for casual use.** 10 free daily songs is huge. |
+| **Suno / Udio Pro** | **$10/mo** ($120/yr) | **Suno Free Tier (50 credits/day = 10 songs)** | **7 / 10** | **Skip.** 10 free daily songs is very generous and plenty for making music. |
 
 ---
 

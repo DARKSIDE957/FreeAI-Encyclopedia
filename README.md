@@ -10,9 +10,9 @@
 </p>
 
 > **Welcome to the Free AI Encyclopedia!**  
-> This is a friendly, honest, and complete guide to the very best free AI tools in the world. Whether you want to chat, write code, make art, produce music, create videos, or build software with free developer APIs — this guide shows you what is genuinely free, what the daily limits are, how reset timers work, and how to get top-tier results without spending a single dollar.
+> This is a friendly and complete guide to the very best free AI tools in the world. Whether you want to chat, write code, make art, produce music, create videos, or build software with free developer APIs — this guide shows you what is genuinely free, what the daily limits are, how reset timers work, and how to get top-tier results without spending a single dollar.
 >
-> Every tool includes direct links, clear token limits, context sizes, daily allowances, honest advice on whether paid upgrades are worth your money, and **unvarnished, real-world opinions on each tool.**
+> Every tool includes direct links, clear token limits, context sizes, daily allowances, guidance on whether paid upgrades are worth your money, and **real-world developer notes on each tool.**
 
 | 🔥 Quick Overview | |
 |:--|:--|
@@ -46,7 +46,7 @@
 
 Before you spend money on monthly AI subscriptions, here is a quick look at how paid plans stack up against free tools:
 
-| Paid Service | Monthly Cost | Direct Free Equivalent (With Links) | Value Score | Honest Advice |
+| Paid Service | Monthly Cost | Direct Free Equivalent (With Links) | Value Score | Recommendation |
 |---|---|---|---|---|
 | [**ChatGPT Plus**](https://chatgpt.com) | **$20/mo** ($240/yr) | [DeepSeek-V3 / R1](https://chat.deepseek.com) + [Mistral Le Chat](https://chat.mistral.ai) | **5 / 10** | **Skip.** DeepSeek R1 and V3 match or beat GPT-4o for $0 with no paywalls. |
 | [**Claude Pro**](https://claude.ai) | **$20/mo** ($240/yr) | [Google AI Studio (Gemini 1.5 Pro)](https://aistudio.google.com) + [Claude Free](https://claude.ai) | **6 / 10** | **Skip for web.** Claude Pro still has message limits. Google AI Studio gives 2M context for $0. |
@@ -56,7 +56,7 @@ Before you spend money on monthly AI subscriptions, here is a quick look at how 
 | [**Perplexity Pro**](https://www.perplexity.ai) | **$20/mo** ($240/yr) | [Perplexity Free (5 Pro/4h)](https://www.perplexity.ai) + [Genspark](https://www.genspark.ai) | **6 / 10** | **Skip.** 5 free Pro searches every 4 hours covers almost all daily research needs. |
 | [**ElevenLabs Starter**](https://elevenlabs.io) | **$5-$22/mo** ($60-$264/yr) | [Kokoro-82M (Local/CPU)](https://github.com/hexgrad/kokoro) + [Fish Audio](https://fish.audio) | **5 / 10** | **Skip unless making commercial ads.** Kokoro-82M runs on your CPU, sounds human, and is 100% free. |
 | [**Runway Gen-3**](https://runwayml.com) | **$15-$35/mo** ($180-$420/yr) | [Kling AI](https://klingai.com) (66 daily credits = 6 videos/day) + [Luma](https://lumalabs.ai/dream-machine) | **5 / 10** | **Skip for personal projects.** Kling AI gives 6 free HD videos every single day. |
-| [**Suno Music Pro**](https://suno.com) | **$10/mo** ($120/yr) | [Suno Free Tier](https://suno.com) (50 credits/day = 10 songs) + [Udio Free](https://www.udio.com) | **7 / 10** | **Good for Spotify uploads; skip for fun.** 10 free daily songs is very generous. |
+| [**Suno Music Pro**](https://suno.com) | **$10/mo** ($120/yr) | [Suno Free Tier](https://suno.com) (50 credits/day = 10 songs) + [Udio Free](https://www.udio.com) | **7 / 10** | **Skip.** 10 free daily songs is very generous and plenty for making music. |
 | **TOTAL BUNDLE** | **$150 / mo** ($1,800/yr) | **100% FREE EQUIVALENT SUITE** | — | **SAVINGS: $1,800.00 / YEAR** |
 
 ---
@@ -121,14 +121,14 @@ Here is a simple, battle-tested setup that covers all your creative and programm
 
 ---
 
-### Detailed Breakdown of VS Code Extensions & Honest Opinions
+### Detailed Breakdown of VS Code Extensions & Developer Notes
 
 #### 1. [Cline](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev) & [Roo Code](https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline)
 * **Marketplace Links**: [Get Cline](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev) | [Get Roo Code](https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline)
 * **What It Does**: Autonomous full-project assistant. It can create new files, edit existing code, run terminal commands, inspect errors, and keep working until the code compiles and passes tests.
 * **Cost**: 100% Free Open Source extension. Bring Your Own Key (BYOK).
 * **How to Run for $0**: Get a free [Google AI Studio API Key](https://aistudio.google.com) and select `gemini-1.5-flash`. You get **1,500 free requests per day** and a 1-million-token memory.
-* **Honest Developer Opinion**:  
+* **Developer Take**:  
   * *The Good*: Outstanding. It saves hours of manual work. When you describe a feature, it inspects your folder structure, creates the necessary files, runs your test commands, sees what broke, and fixes its own mistakes.
   * *The Watchout*: Because it is an active agent, it reads a lot of text. If you give it a vague prompt, it might spend several minutes reading unrelated files. Always give it clear, focused instructions.
   * *Score*: **9.8 / 10 (Our Top Recommendation)**
@@ -138,7 +138,7 @@ Here is a simple, battle-tested setup that covers all your creative and programm
 * **What It Does**: In-line code editing (`Cmd+I` / `Ctrl+I`), code explanations, side-panel chat, and project indexing.
 * **Cost**: 100% Free Open Source. No telemetry, no fees.
 * **How to Run for $0**: Connect your free [Groq Cloud API Key](https://console.groq.com) for Llama 3.3 70B (300 words/sec) or a free [Google AI Studio Key](https://aistudio.google.com). Can also run with offline [Ollama](https://ollama.com).
-* **Honest Developer Opinion**:  
+* **Developer Take**:  
   * *The Good*: The most reliable daily driver for developers who want Cursor-like keyboard shortcuts directly inside standard VS Code. Switching between models takes one click.
   * *The Watchout*: Indexing very large repositories (tens of thousands of files) can use noticeable CPU during the initial scan.
   * *Score*: **9.5 / 10 (Essential Everyday Tool)**
@@ -148,7 +148,7 @@ Here is a simple, battle-tested setup that covers all your creative and programm
 * **What It Does**: Super-fast inline code autocomplete (shows grey suggested text as you type).
 * **Cost**: Free tier gives **unlimited completions forever** using their custom Babble model. Paid Pro ($10/mo) adds full chat.
 * **Context Memory**: **300,000 tokens** (Reads your open files and tabs to understand your style).
-* **Honest Developer Opinion**:  
+* **Developer Take**:  
   * *The Good*: Blazingly fast. It feels like it reads your mind because of the 300,000-token context. By the third line of a new function, it suggests the rest matching your exact naming patterns.
   * *The Watchout*: The paid chat tier is not worth $10/mo. Just keep the free autocomplete and use Cline or Continue for chat.
   * *Score*: **9.4 / 10 (Best Autocomplete Engine)**
@@ -157,7 +157,7 @@ Here is a simple, battle-tested setup that covers all your creative and programm
 * **Marketplace Link**: [Get Codeium on VS Code](https://marketplace.visualstudio.com/items?itemName=Codeium.codeium)
 * **What It Does**: In-line autocomplete, side chat, and code refactoring.
 * **Cost**: **Unlimited free autocomplete forever** for individual programmers. No credit card required. Free tier includes ~100 chat prompts monthly.
-* **Honest Developer Opinion**:  
+* **Developer Take**:  
   * *The Good*: A fantastic zero-setup extension. They have kept their personal autocomplete 100% free for years across 70+ programming languages.
   * *The Watchout*: A little slower than Supermaven on some systems. Chat can occasionally slow down during peak hours.
   * *Score*: **8.8 / 10 (Best Out-of-the-Box Free Extension)**
@@ -166,7 +166,7 @@ Here is a simple, battle-tested setup that covers all your creative and programm
 * **Marketplace Link**: [Get Amazon Q on VS Code](https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.amazon-q-vscode)
 * **What It Does**: In-line autocomplete, code chat, security vulnerability scans, and code modernization.
 * **Cost**: **Unlimited inline suggestions 100% Free** + 50 chat messages/month + 5 security project scans/month.
-* **Honest Developer Opinion**:  
+* **Developer Take**:  
   * *The Good*: Very underrated. Amazon gives away unlimited inline code suggestions completely free. Great security scanner that catches hardcoded secrets and SQL bugs.
   * *The Watchout*: Requires setting up a free AWS Builder ID to log in. Works best for Python, Java, JavaScript, and AWS libraries; less polished on niche languages.
   * *Score*: **8.2 / 10 (Underappreciated Free Performer)**
@@ -175,7 +175,7 @@ Here is a simple, battle-tested setup that covers all your creative and programm
 * **Marketplace Link**: [Get GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 * **What It Does**: In-line suggestions and side chat panel.
 * **Cost**: 2,000 free completions and 50 chat prompts per month. 100% Free for verified students and teachers. Paid is $10/mo ($100/yr).
-* **Honest Developer Opinion**:  
+* **Developer Take**:  
   * *The Good*: The corporate standard. Smooth integration with GitHub repositories.
   * *The Watchout*: The 2,000 free completions cap runs out within a week of active programming. It feels slower and more conservative than modern tools like Cline and Supermaven.
   * *Score*: **7.0 / 10 (Decent, but trailing behind)**
@@ -184,7 +184,7 @@ Here is a simple, battle-tested setup that covers all your creative and programm
 * **Marketplace Link**: [Get Cody on VS Code](https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai)
 * **What It Does**: Multi-repository code search and chat with Claude 3.5 Sonnet and GPT-4o.
 * **Cost**: Free tier offers 200 completions/month and 20 chat queries/month. Pro is $9/mo.
-* **Honest Developer Opinion**:  
+* **Developer Take**:  
   * *The Good*: Sourcegraph's code search graph is top-tier for finding functions across large codebases.
   * *The Watchout*: 20 free chats per month is way too small. You can easily exhaust it in a single afternoon.
   * *Score*: **6.5 / 10 (Great Search, Low Free Quota)**
@@ -193,7 +193,7 @@ Here is a simple, battle-tested setup that covers all your creative and programm
 * **Marketplace Link**: [Get Twinny on VS Code](https://marketplace.visualstudio.com/items?itemName=rjmacarthy.twinny)
 * **What It Does**: Dedicated offline autocomplete and chat powered by local [Ollama](https://ollama.com) or [LM Studio](https://lmstudio.ai).
 * **Cost**: 100% Free Open Source. Zero cloud tracking.
-* **Honest Developer Opinion**:  
+* **Developer Take**:  
   * *The Good*: Perfect for coding on an airplane without Wi-Fi or when working on private code that must never leave your PC.
   * *The Watchout*: Speed depends entirely on your graphics card. If running on a basic CPU, suggestions may feel delayed.
   * *Score*: **8.0 / 10 (Best for 100% Offline Privacy)**
@@ -202,7 +202,7 @@ Here is a simple, battle-tested setup that covers all your creative and programm
 * **Marketplace Link**: [Get Tabnine on VS Code](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
 * **What It Does**: Short word-by-word code suggestions.
 * **Cost**: Basic free tier. Pro is $12/month.
-* **Honest Developer Opinion**:  
+* **Developer Take**:  
   * *The Good*: Lightweight; runs on older computers easily.
   * *The Watchout*: Outdated. Suggests 3 or 4 words at a time instead of full, intelligent blocks of code.
   * *Score*: **4.0 / 10 (Obsolete compared to Supermaven)**
@@ -226,11 +226,11 @@ Here is a simple, battle-tested setup that covers all your creative and programm
 | [**Phind**](https://www.phind.com) | Phind-70B, GPT-4o mini | ~32k tokens | Unlimited standard searches; 10 Phind-70B fast searches/day | Daily reset | Pro: $20/mo | **5/10** (Free search is great for programming questions) | [Perplexity Free](https://www.perplexity.ai), [Continue.dev](https://continue.dev) |
 | [**DuckDuckGo AI**](https://duckduckgo.com/chat) | GPT-4o mini, Claude 3 Haiku, Llama 3.3 70B, Mixtral | ~8k - 16k tokens | Anonymous, daily soft message cap (~30-50 msgs/day) | Daily reset | None (Completely free, no account, zero tracking) | **N/A** (100% Free & Privacy-first) | [HuggingChat](https://huggingface.co/chat) |
 
-### Honest Opinions & Real-World Notes: Chat Assistants
-* **DeepSeek (V3 / R1)**: **10 / 10 Honest Opinion**. The absolute best value in AI today. R1's reasoning mode solves complex coding and math puzzles where GPT-4o stumbles, and the web interface is completely free with no subscription traps.
-* **Claude.ai**: **8.5 / 10 Honest Opinion**. Claude 3.5 Sonnet writes the most natural-sounding text and cleanest web code. However, the 5-hour message limit on the free tier can be annoying during busy afternoons.
-* **ChatGPT**: **7.5 / 10 Honest Opinion**. A very good everyday helper with web browsing and canvas, but the free GPT-4o quota runs out quickly and drops to 4o-mini.
-* **Mistral Le Chat**: **9.0 / 10 Honest Opinion**. Highly recommended. It gives you a clean workspace, free image generation, and web search without nagging you to upgrade.
+### 💡 Field Notes: Chat Assistants
+* **DeepSeek (V3 / R1)**: **10 / 10**. The absolute best value in AI today. R1's reasoning mode solves complex coding and math puzzles where GPT-4o stumbles, and the web interface is completely free with no subscription traps.
+* **Claude.ai**: **8.5 / 10**. Claude 3.5 Sonnet writes the most natural-sounding text and cleanest web code. However, the 5-hour message limit on the free tier can be annoying during busy afternoons.
+* **ChatGPT**: **7.5 / 10**. A very good everyday helper with web browsing and canvas, but the free GPT-4o quota runs out quickly and drops to 4o-mini.
+* **Mistral Le Chat**: **9.0 / 10**. Highly recommended. It gives you a clean workspace, free image generation, and web search without nagging you to upgrade.
 
 ---
 
@@ -249,9 +249,9 @@ Here is a simple, battle-tested setup that covers all your creative and programm
 | [**Together AI**](https://www.together.ai) | Llama 3.3, DeepSeek, FLUX | Up to 128k tokens | $5.00 one-time starter credit upon sign-up (~2.5M words on 70B) | Expires after 3 months | Pay-as-you-go | **No** (Phone verification) |
 | [**Cohere API**](https://cohere.com) | Command R, Command R+, Embed, Rerank | 128k tokens | **Trial Key**: 1,000 calls / month \| 100 calls / minute | Monthly on the 1st | Pay-as-you-go | **No** |
 
-### Honest Opinions & Real-World Notes: Cloud APIs
-* **Google AI Studio**: **9.9 / 10 Honest Opinion**. The absolute champion for developers. Getting 1,500 free requests every day with a massive 1-million-token memory is unbeatable. *Note*: Google reviews free tier prompt data to improve models, so do not send private company passwords or customer data.
-* **Groq Cloud**: **9.5 / 10 Honest Opinion**. The speed is astonishing. When an AI generates answers at 300 words per second, applications feel instant. 14,400 free requests every single day means you will almost never run out.
+### 💡 Field Notes: Cloud APIs
+* **Google AI Studio**: **9.9 / 10**. The absolute champion for developers. Getting 1,500 free requests every day with a massive 1-million-token memory is unbeatable. *Note*: Google reviews free tier prompt data to improve models, so do not send private company passwords or customer data.
+* **Groq Cloud**: **9.5 / 10**. The speed is astonishing. When an AI generates answers at 300 words per second, applications feel instant. 14,400 free requests every single day means you will almost never run out.
 
 ---
 
@@ -271,9 +271,9 @@ Here is a simple, battle-tested setup that covers all your creative and programm
 * **8GB - 12GB VRAM (The Sweet Spot - RTX 3060 / 4060)**: [Llama 3.1 8B](https://llama.meta.com), [Qwen 2.5 Coder 14B](https://github.com/QwenLM/Qwen2.5), [DeepSeek-R1-Distill-Qwen-8B](https://github.com/deepseek-ai/DeepSeek-R1), [Mistral NeMo 12B](https://mistral.ai/news/mistral-nemo/). Excellent quality for code and chat.
 * **16GB - 24GB VRAM (High-End - RTX 3090 / 4090)**: [Qwen 2.5 32B](https://github.com/QwenLM/Qwen2.5), [DeepSeek-R1-Distill-32B](https://github.com/deepseek-ai/DeepSeek-R1), [Llama 3.3 70B](https://llama.meta.com). Flagship intelligence right on your desk.
 
-### Honest Opinions & Real-World Notes: Local AI
-* **Ollama**: **9.7 / 10 Honest Opinion**. The gold standard for local AI. Running one command (`ollama run qwen2.5-coder:14b`) downloads the model, sets up your graphics card, and starts a server ready for VS Code.
-* **LM Studio**: **9.2 / 10 Honest Opinion**. The best app for visually browsing Hugging Face models and seeing how much memory your PC has left before running out.
+### 💡 Field Notes: Local AI
+* **Ollama**: **9.7 / 10**. The gold standard for local AI. Running one command (`ollama run qwen2.5-coder:14b`) downloads the model, sets up your graphics card, and starts a server ready for VS Code.
+* **LM Studio**: **9.2 / 10**. The best app for visually browsing Hugging Face models and seeing how much memory your PC has left before running out.
 
 ---
 
@@ -292,10 +292,10 @@ Here is a simple, battle-tested setup that covers all your creative and programm
 | [**SD WebUI Forge**](https://github.com/lllyasviel/stable-diffusion-webui-forge) | Local Open Source | **100% Unlimited Forever** (Optimized for low graphics memory) | Fast CUDA/DirectML | None ($0 open-source) | **N/A** (Completely free) | [ComfyUI](https://github.com/comfyanonymous/ComfyUI) |
 | [**Fooocus**](https://github.com/lllyasviel/Fooocus) | Local Open Source | **100% Unlimited Forever** (Midjourney-style simplicity on your PC) | Automated SDXL pipeline | None ($0 open-source) | **N/A** (Completely free) | [Midjourney ($10-$60/mo)](https://www.midjourney.com) |
 
-### Honest Opinions & Real-World Notes: Image Generation
-* **Ideogram 2.0**: **9.4 / 10 Honest Opinion**. If you need clear words, typography, or signs inside an image, Ideogram is the champion. 40 free images per day is plenty for posters, logos, and thumbnails.
-* **ComfyUI + FLUX.1**: **9.8 / 10 Honest Opinion**. If your PC has an 8GB+ graphics card, you do not need to pay for Midjourney. FLUX generates photorealistic skin, hands, and lighting for free on your own PC.
-* **Midjourney**: **4.0 / 10 Honest Opinion**. Still has a pretty artistic style, but paying $30 to $60 every month is no longer necessary now that open-weights models are this good.
+### 💡 Field Notes: Image Generation
+* **Ideogram 2.0**: **9.4 / 10**. If you need clear words, typography, or signs inside an image, Ideogram is the champion. 40 free images per day is plenty for posters, logos, and thumbnails.
+* **ComfyUI + FLUX.1**: **9.8 / 10**. If your PC has an 8GB+ graphics card, you do not need to pay for Midjourney. FLUX generates photorealistic skin, hands, and lighting for free on your own PC.
+* **Midjourney**: **4.0 / 10**. Still has a pretty artistic style, but paying $30 to $60 every month is no longer necessary now that open-weights models are this good.
 
 ---
 
@@ -308,13 +308,13 @@ Here is a simple, battle-tested setup that covers all your creative and programm
 | [**Fish Audio**](https://fish.audio) | Voice / Voice Cloning | Free daily points (~50 voice lines daily); 1-minute voice clone free | Fast cloud inference | Pro: $19.90/mo | **6/10** (Great voice cloning, free tier is generous) | [F5-TTS (Local)](https://github.com/SWivid/F5-TTS), [Kokoro](https://github.com/hexgrad/kokoro) |
 | [**Groq Whisper API**](https://console.groq.com) | Voice to Text / STT | **20 RPM \| 2,000 audio sec/min \| 7,200 audio sec/hr 100% FREE** | ~200x realtime (Transcribes 1 hour of audio in 15 seconds) | Paid tier available | **2/10** (The free tier is so generous that paying is unnecessary) | [faster-whisper (Local)](https://github.com/SYSTRAN/faster-whisper) |
 | [**OpenAI Whisper**](https://github.com/openai/whisper) | Voice to Text / STT | **100% Unlimited Forever** (Runs on your PC with [faster-whisper](https://github.com/SYSTRAN/faster-whisper)) | Depends on your PC | None ($0 open-source) | **N/A** (Completely free) | [Groq Whisper API](https://console.groq.com) |
-| [**Suno AI**](https://suno.com) | Music Generation | **50 free credits daily** (= 10 songs / 5 prompts per day) | Cloud (~30s) | Pro: $10/mo (2,500 credits)<br>Premier: $30/mo | **7/10** (Good value for commercial rights, but free tier is great for fun) | [Udio Free Tier](https://www.udio.com) |
+| [**Suno AI**](https://suno.com) | Music Generation | **50 free credits daily** (= 10 songs / 5 prompts per day) | Cloud (~30s) | Pro: $10/mo (2,500 credits)<br>Premier: $30/mo | **7/10** (Great music, and 10 free songs daily is very generous) | [Udio Free Tier](https://www.udio.com) |
 | [**Udio**](https://www.udio.com) | Music Generation | Daily & monthly free credit allowance (~10 credits/day) | Cloud (~40s) | Standard: $10/mo<br>Pro: $30/mo | **7/10** (Incredible vocals and melodies; free tier lets you test ideas) | [Suno Free Tier](https://suno.com) |
 | [**F5-TTS**](https://github.com/SWivid/F5-TTS) | Voice Cloning | **100% Unlimited Forever** (Clone any voice with a 5-second sample on your PC) | Local GPU inference | None ($0 open-source) | **N/A** (Completely free) | [Fish Audio](https://fish.audio) |
 
-### Honest Opinions & Real-World Notes: Audio & Voice
-* **Kokoro-82M**: **10 / 10 Honest Opinion**. The biggest open-source audio breakthrough. It sounds remarkably natural, runs in real-time on a standard laptop CPU, and makes ElevenLabs' $22/month subscription unnecessary for personal projects.
-* **Groq Whisper**: **9.9 / 10 Honest Opinion**. Transcribing a 30-minute meeting in 10 seconds for free is an absolute game-changer.
+### 💡 Field Notes: Audio & Voice
+* **Kokoro-82M**: **10 / 10**. The biggest open-source audio breakthrough. It sounds remarkably natural, runs in real-time on a standard laptop CPU, and makes ElevenLabs' $22/month subscription unnecessary for personal projects.
+* **Groq Whisper**: **9.9 / 10**. Transcribing a 30-minute meeting in 10 seconds for free is an absolute game-changer.
 
 ---
 
@@ -331,9 +331,9 @@ Here is a simple, battle-tested setup that covers all your creative and programm
 | [**Tripo3D**](https://www.tripo3d.ai) | 3D Mesh Generation | **10 free 3D models daily** (Download in GLB or OBJ) | Fast game-ready 3D meshes | Basic: $9.90/mo<br>Pro: $29.90/mo | **6/10** (10 free 3D drafts daily is great for game makers) | [Meshy Free Tier](https://www.meshy.ai) |
 | [**Meshy.ai**](https://www.meshy.ai) | 3D Mesh Generation | **200 free monthly credits** (Text or photo to textured 3D mesh) | High-quality textures | Pro: $20/mo | **6/10** (Great textures; solid indie asset generator) | [Tripo3D Free](https://www.tripo3d.ai) |
 
-### Honest Opinions & Real-World Notes: Video & 3D
-* **Kling AI**: **9.1 / 10 Honest Opinion**. The best free video generator on the web. You get 6 free high-definition videos every day with realistic cloth physics and natural motion.
-* **Tripo3D**: **8.5 / 10 Honest Opinion**. Making 10 free draft 3D models per day that download directly into Blender, Unity, or Godot is fantastic for indie creators.
+### 💡 Field Notes: Video & 3D
+* **Kling AI**: **9.1 / 10**. The best free video generator on the web. You get 6 free high-definition videos every day with realistic cloth physics and natural motion.
+* **Tripo3D**: **8.5 / 10**. Making 10 free draft 3D models per day that download directly into Blender, Unity, or Godot is fantastic for indie creators.
 
 ---
 
@@ -348,9 +348,9 @@ Here is a simple, battle-tested setup that covers all your creative and programm
 | [**Elicit.com**](https://elicit.com) | Research Analysis | **5,000 free starter research credits** | Extracts structured claims from PDF papers | Plus: $10/mo | **6/10** (Outstanding spreadsheet summaries of research papers) | [Consensus Free](https://consensus.app) |
 | [**Scite.ai**](https://scite.ai) | Citation Check | Free trial / Smart Citations preview (Shows who agrees or disagrees) | 1.2B+ citation statements | Individual: $12/mo | **6/10** (Helpful for peer review fact checking) | [Connected Papers](https://www.connectedpapers.com) |
 
-### Honest Opinions & Real-World Notes: Search & Research
-* **Perplexity AI**: **8.8 / 10 Honest Opinion**. Has replaced standard search engines for researching topics. 5 Pro searches every 4 hours reads dozens of sources and gives you footnotes so you can verify facts yourself.
-* **Genspark**: **8.5 / 10 Honest Opinion**. The "Sparkpages" feature is genuinely useful. It researches multiple viewpoints at the same time and builds an organized reference page with tables and videos.
+### 💡 Field Notes: Search & Research
+* **Perplexity AI**: **8.8 / 10**. Has replaced standard search engines for researching topics. 5 Pro searches every 4 hours reads dozens of sources and gives you footnotes so you can verify facts yourself.
+* **Genspark**: **8.5 / 10**. The "Sparkpages" feature is genuinely useful. It researches multiple viewpoints at the same time and builds an organized reference page with tables and videos.
 
 ---
 
@@ -362,7 +362,7 @@ Here is a simple, battle-tested setup that covers all your creative and programm
   * [**DeepSeek-V3**](https://chat.deepseek.com) matches GPT-4o on coding and writing with virtually zero limits.
   * [**DeepSeek-R1**](https://chat.deepseek.com) matches or beats OpenAI o1 on math and reasoning benchmarks for $0.
   * [**Mistral Le Chat**](https://chat.mistral.ai) gives you a free canvas, free FLUX image generation, and web search.
-* **Honest Advice**: **5 / 10** (Skip unless your daily work strictly relies on OpenAI Advanced Voice mode on your phone).
+* **Recommendation**: **5 / 10** (Skip unless your daily work strictly relies on OpenAI Advanced Voice mode on your phone).
 
 ### 2. [Claude Pro](https://claude.ai) ($20/mo) vs. Free Ecosystem
 * **What $20/mo buys you**: 5x message allowance on Claude 3.5 Sonnet, priority server access, and Projects.
@@ -371,7 +371,7 @@ Here is a simple, battle-tested setup that covers all your creative and programm
   * [**Google AI Studio**](https://aistudio.google.com): Gives you **Gemini 1.5 Pro** with a huge **2,000,000 token memory** completely free (50 requests/day).
   * [**Claude Free Tier**](https://claude.ai): Use the web chat for quick writing tasks.
   * **Pay-per-token API**: Connect an Anthropic API key to [Continue.dev](https://continue.dev) or [Cline](https://cline.bot). Most developers spend only $3 to $6 a month for the exact same Claude 3.5 Sonnet model.
-* **Honest Advice**: **6 / 10** (Skip the $20/mo web subscription; use the free web tier or pay pennies via API).
+* **Recommendation**: **6 / 10** (Skip the $20/mo web subscription; use the free web tier or pay pennies via API).
 
 ### 3. [Cursor Pro](https://www.cursor.com) ($20/mo) vs. The Zero-Dollar Dev Stack
 * **What $20/mo buys you**: VS Code fork with Composer multi-file editing, codebase search, and 500 fast Sonnet/GPT-4o requests per month.
@@ -379,7 +379,7 @@ Here is a simple, battle-tested setup that covers all your creative and programm
   * [**Supermaven Free**](https://supermaven.com): Instant inline autocomplete with a 300,000-token context window.
   * [**Cline / Roo Code**](https://cline.bot): Autonomous multi-file assistant in VS Code that runs terminal commands, inspects errors, and edits files.
   * [**Google AI Studio API Key**](https://aistudio.google.com): Connect `gemini-1.5-flash` for **1,500 free requests per day** and a 1M token memory.
-* **Honest Advice**: **7 / 10** (Cursor is convenient for beginners, but you can build the same capability in VS Code for $0).
+* **Recommendation**: **7 / 10** (Cursor is convenient for beginners, but you can build the same capability in VS Code for $0).
 
 ### 4. [Midjourney](https://www.midjourney.com) ($30-$60/mo) vs. Free Image Generators
 * **What $30-$60/mo buys you**: Midjourney v6.1 generation through Discord or web portal.
@@ -387,14 +387,14 @@ Here is a simple, battle-tested setup that covers all your creative and programm
   * [**Local FLUX.1 via ComfyUI**](https://github.com/comfyanonymous/ComfyUI): Matches Midjourney in realism and beats it in complex prompt details.
   * [**Ideogram 2.0**](https://ideogram.ai): Free web tier gives 40 images/day with text rendering that Midjourney cannot match.
   * [**Recraft.ai**](https://www.recraft.ai): Generates true scalable vector `.svg` icons and illustrations for free.
-* **Honest Advice**: **4 / 10** (Skip. Free and local models now match or exceed Midjourney quality).
+* **Recommendation**: **4 / 10** (Skip. Free and local models now match or exceed Midjourney quality).
 
 ### 5. [ElevenLabs](https://elevenlabs.io) ($5-$22/mo) vs. Free Voice AI
 * **What $5-$22/mo buys you**: High-quality cloud voice synthesis with a commercial license and instant voice cloning.
 * **The Free Match**:
   * [**Kokoro-82M**](https://github.com/hexgrad/kokoro): An open-source text-to-speech model that sounds human, runs in real-time on your laptop CPU, and has zero character limits.
   * [**Fish Audio**](https://fish.audio): Web portal with free daily points for quick voice generation and voice cloning.
-* **Honest Advice**: **5 / 10** (Only pay for the $5 Starter tier if you need a legal commercial waiver for broadcast ads).
+* **Recommendation**: **5 / 10** (Only pay for the $5 Starter tier if you need a legal commercial waiver for broadcast ads).
 
 ---
 

@@ -13,7 +13,7 @@ We welcome community contributions, quota updates, rate limit corrections, and n
    * Context Window size in tokens.
    * Rate Limits: RPM (Requests Per Minute), TPM (Tokens Per Minute), RPD (Requests Per Day).
    * Reset Interval (e.g., 00:00 UTC vs rolling 3/5 hours).
-   * Honest evaluation: Is the paid upgrade worth it, and what is the best free alternative?
+   * Practical evaluation: Is the paid upgrade worth it, and what is the best free alternative?
 3. **No Affiliates or Spam**:
    * Do not submit affiliate links, promotional referral codes, or deceptive "free trial for 3 days then $50/mo" traps. Only genuine free tiers or open weights are accepted.
 
