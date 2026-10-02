@@ -18,12 +18,12 @@
 
 | Runtime | Platform | Interface | Best For | OpenAI API Compatible? |
 |---|---|---|---|---|
-| **Ollama** | Win / Mac / Linux | CLI + Background Service | Developer automation, IDE integration, CLI agents | **Yes** (`http://localhost:11434/v1`) |
-| **LM Studio** | Win / Mac / Linux | Polished Desktop GUI | Interactive chat, testing Hugging Face GGUFs, visual hardware monitor | **Yes** (`http://localhost:1234/v1`) |
-| **Jan.ai** | Win / Mac / Linux | Native Electron GUI | Privacy-first local ChatGPT alternative, clean UI | **Yes** (`http://localhost:1337/v1`) |
-| **llama.cpp** | Win / Mac / Linux | Pure C/C++ CLI | Maximum raw inference speed, low overhead, CPU inference | **Yes** (`llama-server`) |
-| **vLLM** | Linux / WSL2 | High-throughput Engine | Serving high-concurrency production workloads with PagedAttention | **Yes** (`http://localhost:8000/v1`) |
-| **Text-Generation-WebUI** | Win / Linux | Gradio Browser UI | Deep experimentation, LoRA loading, exotic sampling techniques | **Yes** (via extension) |
+| **Ollama** | Win / Mac / Linux | CLI + Background Service | Developer automation, IDE integration, CLI agents | **Yes** |
+| **LM Studio** | Win / Mac / Linux | Polished Desktop GUI | Interactive chat, testing Hugging Face GGUFs, visual hardware monitor | **Yes** |
+| **Jan.ai** | Win / Mac / Linux | Native Electron GUI | Privacy-first local ChatGPT alternative, clean UI | **Yes** |
+| **llama.cpp** | Win / Mac / Linux | Pure C/C++ CLI | Maximum raw inference speed, low overhead, CPU inference | **Yes** |
+| **vLLM** | Linux / WSL2 | High-throughput Engine | Serving high-concurrency production workloads with PagedAttention | **Yes** |
+| **Text-Generation-WebUI** | Win / Linux | Gradio Browser UI | Deep experimentation, LoRA loading, exotic sampling techniques | **Yes** |
 
 ---
 

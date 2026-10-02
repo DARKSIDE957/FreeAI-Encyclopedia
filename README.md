@@ -259,12 +259,12 @@ Here is a simple, battle-tested setup that covers all your creative and programm
 
 | Software | Platforms | Type of Interface | Best For | Works as Local Server? |
 |---|---|---|---|---|
-| [**Ollama**](https://ollama.com) | Win / Mac / Linux | Command Line + Background Service | Fast setup, connecting to VS Code, background automation | **Yes** (`http://localhost:11434/v1`) |
-| [**LM Studio**](https://lmstudio.ai) | Win / Mac / Linux | Friendly Desktop App | Easy chat, downloading open models, seeing memory bars visually | **Yes** (`http://localhost:1234/v1`) |
-| [**Jan.ai**](https://jan.ai) | Win / Mac / Linux | Clean Desktop App | Clean, private, zero-fuss offline assistant | **Yes** (`http://localhost:1337/v1`) |
-| [**llama.cpp**](https://github.com/ggerganov/llama.cpp) | Win / Mac / Linux | Pure C/C++ Engine | Maximum raw speed and running models on CPU | **Yes** (`llama-server`) |
-| [**vLLM**](https://github.com/vllm-project/vllm) | Linux / WSL2 | High-throughput Engine | Serving multiple users at once with maximum efficiency | **Yes** (`http://localhost:8000/v1`) |
-| [**Text-Gen-WebUI**](https://github.com/oobabooga/text-generation-webui) | Win / Linux | Browser Web Interface | Advanced model tweaking, extensions, and testing | **Yes** (via extension) |
+| [**Ollama**](https://ollama.com) | Win / Mac / Linux | Command Line + Background Service | Fast setup, connecting to VS Code, background automation | **Yes** |
+| [**LM Studio**](https://lmstudio.ai) | Win / Mac / Linux | Friendly Desktop App | Easy chat, downloading open models, seeing memory bars visually | **Yes** |
+| [**Jan.ai**](https://jan.ai) | Win / Mac / Linux | Clean Desktop App | Clean, private, zero-fuss offline assistant | **Yes** |
+| [**llama.cpp**](https://github.com/ggerganov/llama.cpp) | Win / Mac / Linux | Pure C/C++ Engine | Maximum raw speed and running models on CPU | **Yes** |
+| [**vLLM**](https://github.com/vllm-project/vllm) | Linux / WSL2 | High-throughput Engine | Serving multiple users at once with maximum efficiency | **Yes** |
+| [**Text-Gen-WebUI**](https://github.com/oobabooga/text-generation-webui) | Win / Linux | Browser Web Interface | Advanced model tweaking, extensions, and testing | **Yes** |
 
 ### Which Model Fits Your Graphics Card (VRAM)?
 * **4GB - 6GB VRAM (Budget Cards)**: [Qwen 2.5 3B](https://github.com/QwenLM/Qwen2.5), [Meta Llama 3.2 3B](https://llama.meta.com), [Phi-3.5 Mini](https://azure.microsoft.com/en-us/blog/introducing-phi-3-5-small-language-models/). Runs fast and takes ~2GB to 3GB of memory.
