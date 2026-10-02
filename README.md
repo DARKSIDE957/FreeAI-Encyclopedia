@@ -2,7 +2,7 @@
 
 [![Status](https://img.shields.io/badge/Status-Complete%20A%E2%80%93Z-brightgreen.svg)]()
 [![Date](https://img.shields.io/badge/Updated-October%202%2C%202026-blue.svg)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 [![Zero Dollar Stack](https://img.shields.io/badge/Total%20Cost-%240.00-success.svg)]()
 
 > **The definitive, battle-tested compendium of 100% free AI tools, developer APIs, Visual Studio Code extensions, image/audio/video engines, and local offline models.**  
@@ -441,5 +441,6 @@ Located in the [`tools/`](tools/) directory:
 
 ## 📄 License & Community
 
-Distributed under the [MIT License](LICENSE).  
+Distributed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](LICENSE).  
+Copyright © 2026 DARKSIDE957.
 Maintained by **DARKSIDE957**. Contributions, extension suggestions, and quota updates are welcomed!
