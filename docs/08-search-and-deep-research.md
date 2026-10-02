@@ -1,4 +1,4 @@
-# 08. AI Search & Deep Research Tools (A to Z)
+# 08. AI Search & Deep Research Tools
 
 > **Last Updated**: October 2, 2026  
 > **Coverage**: Autonomous web search, academic literature synthesis, citation verification, and research engines.

@@ -1,4 +1,4 @@
-# 05. AI Image Generation & Vision Models (A to Z)
+# 05. AI Image Generation & Vision Models
 
 > **Last Updated**: October 2, 2026  
 > **Coverage**: Text-to-image synthesis, vector generation, upscaling, local ComfyUI/Forge setups, and free web quotas.

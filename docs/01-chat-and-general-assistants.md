@@ -1,4 +1,4 @@
-# 01. Free AI Chat & Conversational Assistants (A to Z)
+# 01. Free AI Chat & Conversational Assistants
 
 > **Last Updated**: October 2, 2026  
 > **Coverage**: Web interfaces, mobile apps, reasoning models, and conversational AI accessible without payment.

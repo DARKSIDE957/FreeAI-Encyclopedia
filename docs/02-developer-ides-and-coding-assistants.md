@@ -1,4 +1,4 @@
-# 02. AI IDEs & Developer Coding Assistants (A to Z)
+# 02. AI IDEs & Developer Coding Assistants
 
 > **Last Updated**: October 2, 2026  
 > **Coverage**: AI-native IDEs, VS Code / JetBrains extensions, terminal pair-programmers, and autonomous coding agents.

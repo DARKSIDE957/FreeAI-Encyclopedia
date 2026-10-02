@@ -1,4 +1,4 @@
-# 06. Audio, Voice, Music & Transcription AI (A to Z)
+# 06. Audio, Voice, Music & Transcription AI
 
 > **Last Updated**: October 2, 2026  
 > **Coverage**: Text-to-Speech (TTS), voice cloning, Speech-to-Text (STT) transcription, AI music generation, and sound design.

@@ -1,4 +1,4 @@
-# 07. AI Video & 3D Generation (A to Z)
+# 07. AI Video & 3D Generation
 
 > **Last Updated**: October 2, 2026  
 > **Coverage**: Text-to-video, image-to-video animation, text/image-to-3D mesh generation, and free tier allowances.
