@@ -5,6 +5,13 @@
 
 ---
 
+> [!IMPORTANT]
+> **🛡️ Privacy & Personal Data Recommendation**:  
+> **Remember to never put your personal data in any AI chat or online assistant.** Your personal data (such as passwords, private banking or financial data, identification numbers, addresses, phone numbers, or confidential documents) belongs to you and does not have to be shared.  
+> If you are working with sensitive, private, or confidential data, use **100% offline local AI** (like [Ollama](https://ollama.com)) on your own machine, where your information stays completely private.
+
+---
+
 ## Master Comparison Matrix
 
 | Assistant | Free Models | Context Window (Free) | Rate Limit & Quotas | Reset Cycle | Paid Upgrade | Is Paid Worth It? | Best Free Alternative |

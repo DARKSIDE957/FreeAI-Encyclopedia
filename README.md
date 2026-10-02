@@ -23,6 +23,13 @@
 
 ---
 
+> [!IMPORTANT]
+> **🛡️ Privacy Recommendation**:  
+> **Remember to never put your personal data in any AI chat or online AI tool.** Your personal information (such as passwords, private financial details, government IDs, phone numbers, home addresses, or confidential workplace data) belongs to you and does not have to be shared.  
+> Whenever you are working with sensitive or confidential data, use **100% offline local AI** (like [Ollama](https://ollama.com) or [LM Studio](https://lmstudio.ai)) running directly on your own computer, where zero data ever leaves your device.
+
+---
+
 ## 📑 Table of Contents
 
 1. [⚡ Quick Comparison: Paid Subscriptions vs. Their Best Free Matches](#-quick-comparison-paid-subscriptions-vs-their-best-free-matches)
@@ -210,6 +217,9 @@ Here is a simple, battle-tested setup that covers all your creative and programm
 ---
 
 ## 💬 02. Chat & Conversational Assistants (Web & Mobile)
+
+> [!TIP]
+> **Privacy Tip**: Never share your private personal data in online chats. If you need complete privacy, use [DuckDuckGo AI](https://duckduckgo.com/chat) (no login or tracking) or run models completely offline with [Ollama](#️-04-local--offline-ai-run-unlimited-ai-on-your-own-pc).
 
 | Assistant | Free Models | Context Memory (Free) | Rate Limit & Quotas | Reset Clock | Paid Plan | Is Paid Worth It? | Best Free Match |
 |---|---|---|---|---|---|---|---|
