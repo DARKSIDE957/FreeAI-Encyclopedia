@@ -1,12 +1,31 @@
+<a id="top"></a>
+
 # 🌟 The Free AI Encyclopedia & Master Field Manual (A to Z)
 
-[![Status](https://img.shields.io/badge/Status-Complete%20A%E2%80%93Z-brightgreen.svg)]()
-[![Date](https://img.shields.io/badge/Updated-October%202%2C%202026-blue.svg)]()
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
-[![Zero Dollar Stack](https://img.shields.io/badge/Total%20Cost-%240.00-success.svg)]()
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Complete%20A%E2%80%93Z-brightgreen?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Total%20Cost-%240.00-success?style=for-the-badge" alt="Zero Dollar Stack" />
+  <img src="https://img.shields.io/badge/License-CC%20BY%204.0-blue?style=for-the-badge" alt="License" />
+  <img src="https://img.shields.io/badge/Updated-October%202%2C%202026-lightgrey?style=for-the-badge" alt="Updated" />
+</p>
 
-> **The definitive, battle-tested compendium of 100% free AI tools, developer APIs, Visual Studio Code extensions, image/audio/video engines, and local offline models.**  
-> Featuring direct links to every AI service, exact token limits, context windows, rate limits (RPM/TPM/RPD), reset timers, brutal "Is Paying Worth It?" financial verdicts, and **unfiltered genuine developer opinions on every single tool from A to Z.**
+<p align="center">
+  <img src="https://img.shields.io/github/stars/DARKSIDE957/free-ai-encyclopedia?style=flat-square&color=yellow" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/forks/DARKSIDE957/free-ai-encyclopedia?style=flat-square&color=blue" alt="GitHub forks" />
+  <img src="https://img.shields.io/github/last-commit/DARKSIDE957/free-ai-encyclopedia?style=flat-square&color=purple" alt="Last commit" />
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome" />
+</p>
+
+> **The definitive, battle-tested compendium of 100% free AI tools, developer APIs, Visual Studio Code extensions, image / audio / video engines, and local offline models.**
+>
+> Every entry ships with direct links, exact token limits, context windows, rate limits (RPM / TPM / RPD), reset timers, brutal *"Is Paying Worth It?"* financial verdicts — and **unfiltered, genuine developer opinions on every single tool from A to Z.**
+
+| 🔥 Quick Stats | |
+|:--|:--|
+| 🗂️ **Categories covered** | 10 |
+| 🔗 **Direct links to tools** | 100+ |
+| 💵 **Cost to you** | **$0.00 forever** |
+| 💰 **Typical annual savings** | **$1,800+ / year** |
 
 ---
 
@@ -24,7 +43,8 @@
 10. [🔍 08. AI Search & Deep Academic Research](#-08-ai-search--deep-academic-research)
 11. [⚖️ 09. The Paid vs. Free Master Verdict Matrix](#️-09-the-paid-vs-free-master-verdict-matrix)
 12. [⏱️ 10. Master Token Quotas, Rate Limits & Reset Windows Reference](#-10-master-token-quotas-rate-limits--reset-windows-reference)
-13. [🧰 Bundled Python Diagnostic & Savings Tools](#-bundled-python-diagnostic--savings-tools)
+13. [📚 Documentation Index (Deep-Dive Guides)](#documentation-index-deep-dive-guides)
+14. [📄 License & Community](#license--community)
 
 ---
 
@@ -424,23 +444,37 @@ You can assemble a world-class AI production suite right now without paying a si
 
 ---
 
-## 🧰 Bundled Python Diagnostic & Savings Tools
+## 📚 Documentation Index (Deep-Dive Guides)
 
-Located in the [`tools/`](tools/) directory:
+Beyond this README, every category has its own dedicated, deep-dive guide in the [`docs/`](docs/) folder:
 
-1. **Free API Health & Speed Benchmark**: [`tools/test_free_apis.py`](tools/test_free_apis.py)
-   ```bash
-   python tools/test_free_apis.py
-   ```
-2. **Subscription Savings Calculator**: [`tools/token_cost_calculator.py`](tools/token_cost_calculator.py)
-   ```bash
-   python tools/token_cost_calculator.py
-   ```
+| # | Category | Deep-Dive Guide | What's Inside |
+|:--:|:--|:--|:--|
+| 01 | 💬 Chat & Assistants | [`01-chat-and-general-assistants.md`](docs/01-chat-and-general-assistants.md) | Web & mobile conversational AI, free tiers, and quotas |
+| 02 | 💻 Dev IDEs & Coding | [`02-developer-ides-and-coding-assistants.md`](docs/02-developer-ides-and-coding-assistants.md) | VS Code extensions, IDE forks, and autonomous agents |
+| 03 | 🌐 Free API Providers | [`03-free-api-providers-and-cloud-endpoints.md`](docs/03-free-api-providers-and-cloud-endpoints.md) | Cloud endpoints, developer keys, and SDKs |
+| 04 | 🖥️ Local & Offline | [`04-local-and-offline-ai-complete-guide.md`](docs/04-local-and-offline-ai-complete-guide.md) | Ollama, LM Studio, and hardware recommendations |
+| 05 | 🎨 Image & Vision | [`05-image-generation-and-vision-models.md`](docs/05-image-generation-and-vision-models.md) | Text-to-image, vector art, and local FLUX pipelines |
+| 06 | 🎙️ Audio, Voice & Music | [`06-audio-voice-music-and-transcription.md`](docs/06-audio-voice-music-and-transcription.md) | TTS, STT, and music generation |
+| 07 | 🎬 Video & 3D | [`07-video-and-3d-generation.md`](docs/07-video-and-3d-generation.md) | Text-to-video and 3D mesh generation |
+| 08 | 🔍 Search & Research | [`08-search-and-deep-research.md`](docs/08-search-and-deep-research.md) | Literature synthesis and AI search engines |
+| 09 | ⚖️ Paid vs. Free Matrix | [`09-paid-vs-free-verdict-matrix.md`](docs/09-paid-vs-free-verdict-matrix.md) | Financial analysis and 1:1 free alternatives |
+| 10 | ⏱️ Tokens & Rate Limits | [`10-tokens-and-rate-limits-reference.md`](docs/10-tokens-and-rate-limits-reference.md) | Master quota, RPM / TPM / RPD, and reset windows |
 
 ---
 
 ## 📄 License & Community
 
-Distributed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](LICENSE).  
-Copyright © 2026 DARKSIDE957.
-Maintained by **DARKSIDE957**. Contributions, extension suggestions, and quota updates are welcomed!
+Distributed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](LICENSE).
+
+Copyright © 2026 **DARKSIDE957**.
+
+<p align="center">
+  <a href="https://github.com/DARKSIDE957/free-ai-encyclopedia"><img src="https://img.shields.io/badge/⭐%20Star%20this%20repo-yellow?style=for-the-badge" alt="Star this repo" /></a>
+  <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/🤝%20Contribute-blue?style=for-the-badge" alt="Contribute" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/📜%20License-lightgrey?style=for-the-badge" alt="License" /></a>
+</p>
+
+Maintained by **DARKSIDE957**. Contributions, extension suggestions, and quota updates are always welcomed!
+
+<p align="right"><a href="#top">🔝 Back to top</a></p>
