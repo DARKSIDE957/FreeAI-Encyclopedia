@@ -28,7 +28,26 @@
 
 ---
 
-## 2. Web Chat Interface Quotas & Reset Timers
+## 2. Commercial Paid API Free Starter Credits & Allowances
+
+| Commercial Provider | Free Starter Credit / Tokens | Ongoing Free Quota | Credit Card Required? | Expiration Date | Depletion Behavior | Post-Free Pricing (per 1M input) |
+|---|---|---|---|---|---|---|
+| **Google AI Studio** | Permanent free tier + $300 GCP credit | 1,500 RPD (Flash), 50 RPD (Pro) | No for AI Studio | Permanent (90d for GCP $300) | HTTP 429 until 00:00 UTC reset | $0.075 / 1M (Flash) |
+| **DeepSeek API** | 5,000,000 free tokens (10 RMB) | No ongoing free tier | No (Phone verification) | 30 days from signup | API calls halt until deposit | $0.14 / 1M (DeepSeek-V3) |
+| **Together AI** | $5.00 free starter credit | No ongoing free tier | No (Phone verification) | 90 days (3 months) | API calls halt until card added | $0.80 / 1M (Llama 3.3 70B) |
+| **Groq Cloud API** | 14,400 free requests / day | 14,400 RPD forever | No | Permanent | Soft throttle at 30 RPM | $0.59 / 1M (Llama 3.3 70B) |
+| **Mistral AI API** | Free Experimentation tier | 1 RPS / 500,000 TPM | No (Phone verification) | Permanent | Throttled to 1 req/sec | $2.00 / 1M (Mistral Large) |
+| **Cohere API** | 1,000 free trial calls / month | 1,000 calls / month | No | Resets 1st of every month | Calls pause until next month | Pay-as-you-go |
+| **Cerebras Cloud** | 1,000,000 tokens / day | 1M tokens / day | No | Daily at 00:00 UTC | Pauses until midnight UTC | $0.60 / 1M (Llama 3.3 70B) |
+| **SambaNova Cloud** | ~100k+ tokens / day | Daily allowance | No | Daily at 00:00 UTC | Throttles until daily reset | Pay-as-you-go |
+| **GitHub Models** | 150 requests / day per model | 150 RPD per model | No (GitHub PAT token) | Daily at 00:00 UTC | Rate limited until midnight UTC | Free testing tier |
+| **OpenAI API** | $0.00 (Discontinued free trial) | None | Yes (Min $5 prepaid deposit) | N/A | Cannot call API without deposit | $2.50 / 1M (GPT-4o) |
+| **Anthropic API** | $5.00 trial in select regions | None | Yes (For sustained usage) | 14–30 days | Returns credit error | $3.00 / 1M (Claude 3.5 Sonnet) |
+| **Cloudflare Workers**| 10,000 Neurons / day | 10k Neurons daily | No (Cloudflare account) | Daily at 00:00 UTC | Halts until midnight UTC | $5/mo Workers Paid |
+
+---
+
+## 3. Web Chat Interface Quotas & Reset Timers
 
 | Platform | Model | Free Turn / Message Allowance | Reset Interval Mechanism | Fallback Behavior on Depletion |
 |---|---|---|---|---|
@@ -47,7 +66,7 @@
 
 ---
 
-## 3. Developer IDE & Extension Quotas
+## 4. Developer IDE & Extension Quotas
 
 | Tool | Autocomplete Limit | Chat & Command Limit | Reset Interval | Bypass / Extension Hack |
 |---|---|---|---|---|
@@ -56,7 +75,7 @@
 | **GitHub Copilot (Free)**| 2,000 completions / month | 50 chat messages / month | Monthly on 1st | Verified GitHub Student Developer Pack (100% Free Pro) |
 | **Supermaven (Free)** | **Unlimited** inline completions | None (Chat is Pro only) | Permanent | Pair with Cline or Continue.dev for chat |
 | **Continue.dev** | **Unlimited** (BYOK / Ollama) | **Unlimited** (BYOK / Ollama) | Never | Open-source — zero artificial limits |
-| **Cline / Roo Code** | **Unlimited** (BYOK / Ollama) | **Unlimited** (BYOK / Ollama) | Never | Open-source — plug in free Google AI Studio key |
+| **Cline / Zoo Code** | **Unlimited** (BYOK / Ollama) | **Unlimited** (BYOK / Ollama) | Never | Open-source — plug in free Google AI Studio key |
 
 ---
 

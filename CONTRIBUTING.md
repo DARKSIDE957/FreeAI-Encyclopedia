@@ -1,6 +1,6 @@
 # Contributing to the Free AI Encyclopedia
 
-We welcome community contributions, quota updates, rate limit corrections, and new free AI discoveries!
+Community contributions, quota updates, rate limit corrections, and new free AI discoveries are welcome!
 
 ---
 

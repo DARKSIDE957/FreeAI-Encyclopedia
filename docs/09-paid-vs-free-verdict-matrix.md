@@ -1,7 +1,7 @@
 # 09. The Paid vs. Free Master Verdict Matrix
 
 > **Last Updated**: October 3, 2026  
-> **Purpose**: A brutal, no-nonsense financial evaluation. We compare every popular paid AI subscription side-by-side with its exact 1:1 free equivalent to answer one question: **Is it actually worth your hard-earned money?**
+> **Purpose**: A clear, rigorous financial evaluation comparing every popular paid AI subscription side-by-side with its exact 1:1 free equivalent to answer one question: **Is it actually worth your hard-earned money?**
 
 ---
 
@@ -86,7 +86,7 @@ PAID ($20/mo)                         FREE ($0.00/mo)
 * **What $20/mo buys you**: Seamless VS Code fork with Composer multi-file editing, `@codebase` indexing, and 500 fast Sonnet/GPT-4o queries per month.
 * **The 1:1 Free Alternative**:
   * **Supermaven (Free Extension)**: Instant inline code completions with a 300,000-token context window.
-  * **Cline / Roo Code (Free Open-Source Agent)**: Autonomous multi-file editor that runs terminal commands, reads your codebase, and writes code.
+  * **Cline / Zoo Code (Free Open-Source Agent)**: Autonomous multi-file editor that runs terminal commands, reads your codebase, and writes code.
   * **Google AI Studio API Key**: Connect `gemini-1.5-flash` for **1,500 free agent requests per day** and a 1M context window.
 * **Is Paying Worth It?**: **7 / 10**
   * *Who should pay*: Developers who want a slick, zero-configuration out-of-the-box experience and don't care about spending $240/yr.
