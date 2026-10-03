@@ -1,6 +1,6 @@
 # 04. Local & Offline AI: The Infinite-Token Guide
 
-> **Last Updated**: October 2, 2026  
+> **Last Updated**: October 3, 2026  
 > **Coverage**: Local inference engines, open weights, hardware requirements, quantization formats, and offline private AI.
 
 ---

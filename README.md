@@ -6,7 +6,11 @@
   <img src="https://img.shields.io/badge/Status-Active%20%26%20Updated-brightgreen?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/Total%20Cost-%240.00-success?style=for-the-badge" alt="Zero Dollar Stack" />
   <img src="https://img.shields.io/badge/License-CC%20BY%204.0-blue?style=for-the-badge" alt="License" />
-  <img src="https://img.shields.io/badge/Updated-October%202%2C%202026-lightgrey?style=for-the-badge" alt="Updated" />
+  <img src="https://img.shields.io/badge/Updated-October%203%2C%202026-lightgrey?style=for-the-badge" alt="Updated" />
+  <img src="https://img.shields.io/github/stars/DARKSIDE957/FreeAI-Encyclopedia?style=for-the-badge" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/forks/DARKSIDE957/FreeAI-Encyclopedia?style=for-the-badge" alt="GitHub Forks" />
+  <img src="https://img.shields.io/github/contributors/DARKSIDE957/FreeAI-Encyclopedia?style=for-the-badge" alt="GitHub Contributors" />
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge" alt="PRs Welcome" />
 </p>
 
 > **Welcome to the Free AI Encyclopedia!**  

@@ -1,6 +1,6 @@
 # 10. Master Token Quotas, Rate Limits & Reset Windows Reference
 
-> **Last Updated**: October 2, 2026  
+> **Last Updated**: October 3, 2026  
 > **Purpose**: The definitive technical reference for context windows, rate limits (RPM/TPM/RPD), reset mechanisms, and quotas across all free AI tiers.
 
 ---

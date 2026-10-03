@@ -1,6 +1,6 @@
 # 09. The Paid vs. Free Master Verdict Matrix
 
-> **Last Updated**: October 2, 2026  
+> **Last Updated**: October 3, 2026  
 > **Purpose**: A brutal, no-nonsense financial evaluation. We compare every popular paid AI subscription side-by-side with its exact 1:1 free equivalent to answer one question: **Is it actually worth your hard-earned money?**
 
 ---
